@@ -21,7 +21,7 @@
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/<your-username>/svault.git
+git clone https://github.com/Caleb-ne1/svault.git
 cd svault
 ```
 
